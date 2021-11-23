@@ -1,0 +1,3 @@
+Hello, %SEX% %NAME%!
+
+You are %AGE% years old and today we have discount for you of %AGE% for all merchandise!

@@ -1,0 +1,5 @@
+Hello, %NAME%!
+
+Today you`ve become %AGE% years old %SEX%!
+
+Happy birthday!
