@@ -1,10 +1,13 @@
 package mail_sender;
 
 
+import lombok.Getter;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+@Getter
 public enum MailCode {
     HAPPY_BIRTHDAY("templates/happy_birthday.txt"),
     DISCOUNT("templates/discount.txt");

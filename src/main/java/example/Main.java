@@ -10,6 +10,7 @@ public class Main {
 //        System.out.println(arrObj1);
 //        System.out.println(arrObj2);
         Day day = Day.MONDAY;
+        System.out.println(day.toString());
         Planet planet = Planet.EARTH;
         System.out.println(planet.surfaceGravity());
     }
